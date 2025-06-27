@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.imgur.com/YrdkswN.jpg",
+    "title": "How to Learn C Programming for Beginners",
+    "name": "Programming Basics",
+    "author": "Md. Rakib Hasan",
+    "author_image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "posted_date": "2024-09-21",
+    "reading_time": "10 min read",
+    "hashtags": ["C", "Beginner", "Programming"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.imgur.com/ZAWq3J8.jpeg",
+    "title": "The Main Majors in Computer Science: Which One is Right for You?",
+    "name": "Education",
+    "author": "Fatema Akter",
+    "author_image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "posted_date": "2023-06-01",
+    "reading_time": "9 min read",
+    "hashtags": ["CS", "Majors", "Education"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.imgur.com/Z1AnVUQ.jpeg",
+    "title": "Introduction to Artificial Intelligence: Concepts and Applications",
+    "name": "AI",
+    "author": "Sajid Rahman",
+    "author_image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "posted_date": "2024-04-19",
+    "reading_time": "14 min read",
+    "hashtags": ["AI", "MachineLearning", "Tech"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.imgur.com/O6G72rb.jpeg",
+    "title": "Top 5 Programming Languages to Learn in 2024",
+    "name": "Programming",
+    "author": "Israt Jahan",
+    "author_image": "https://randomuser.me/api/portraits/women/4.jpg",
+    "posted_date": "2023-12-10",
+    "reading_time": "4 min read",
+    "hashtags": ["Languages", "Programming", "Trends"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.imgur.com/ChkX8pp.jpeg",
+    "title": "Cybersecurity Essentials: Protect Yourself Online",
+    "name": "Security",
+    "author": "Naimul Islam",
+    "author_image": "https://randomuser.me/api/portraits/men/5.jpg",
+    "posted_date": "2023-03-08",
+    "reading_time": "7 min read",
+    "hashtags": ["Cybersecurity", "OnlineSafety", "Security"]
+  },
+  {
+    "id": 6,
+    "cover": "",
+    "title": "How to Build Your First Website with HTML and CSS",
+    "name": "Web Development",
+    "author": "Sumaiya Akter",
+    "author_image": "https://randomuser.me/api/portraits/women/6.jpg",
+    "posted_date": "2025-05-04",
+    "reading_time": "9 min read",
+    "hashtags": ["HTML", "CSS", "WebDev"]
+  },
+  {
+    "id": 7,
+    "cover": "https://i.imgur.com/9Q3AvaU.jpeg",
+    "title": "Why Python is the Best Language for Data Science",
+    "name": "Data Science",
+    "author": "Tanvir Ahmed",
+    "author_image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "posted_date": "2024-12-24",
+    "reading_time": "4 min read",
+    "hashtags": ["Python", "DataScience", "Tech"]
+  },
+  {
+    "id": 8,
+    "cover": "https://source.unsplash.com/640x480/?cloud-computing",
+    "title": "Understanding Cloud Computing: Basics and Benefits",
+    "name": "Cloud",
+    "author": "Jannatul Ferdous",
+    "author_image": "https://randomuser.me/api/portraits/women/8.jpg",
+    "posted_date": "2023-01-31",
+    "reading_time": "13 min read",
+    "hashtags": ["Cloud", "AWS", "Tech"]
+  },
+  {
+    "id": 9,
+    "cover": "https://source.unsplash.com/640x480/?debugging",
+    "title": "How to Debug Code Effectively: Tips and Tools",
+    "name": "Programming",
+    "author": "Arif Hossain",
+    "author_image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "posted_date": "2024-07-11",
+    "reading_time": "11 min read",
+    "hashtags": ["Debugging", "Programming", "Tools"]
+  },
+  {
+    "id": 10,
+    "cover": "https://source.unsplash.com/640x480/?blockchain",
+    "title": "Blockchain Explained: What You Need to Know",
+    "name": "Blockchain",
+    "author": "Tasnim Rahman",
+    "author_image": "https://randomuser.me/api/portraits/women/10.jpg",
+    "posted_date": "2023-11-28",
+    "reading_time": "5 min read",
+    "hashtags": ["Blockchain", "Crypto", "Tech"]
+  },
+  {
+    "id": 11,
+    "cover": "https://source.unsplash.com/640x480/?mobile-app-development",
+    "title": "Getting Started with Mobile App Development",
+    "name": "Mobile",
+    "author": "Shahriar Kabir",
+    "author_image": "https://randomuser.me/api/portraits/men/11.jpg",
+    "posted_date": "2023-03-08",
+    "reading_time": "4 min read",
+    "hashtags": ["Mobile", "AppDev", "Android"]
+  },
+  {
+    "id": 12,
+    "cover": "https://source.unsplash.com/640x480/?ai-future",
+    "title": "The Future of AI: Trends and Predictions",
+    "name": "AI",
+    "author": "Nusrat Jahan",
+    "author_image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "posted_date": "2023-12-12",
+    "reading_time": "3 min read",
+    "hashtags": ["AI", "Trends", "Future"]
+  },
+  {
+    "id": 13,
+    "cover": "https://source.unsplash.com/640x480/?programming-language",
+    "title": "How to Choose the Right Programming Language for Your Project",
+    "name": "Programming",
+    "author": "Mithila Ahmed",
+    "author_image": "https://randomuser.me/api/portraits/women/13.jpg",
+    "posted_date": "2023-11-02",
+    "reading_time": "9 min read",
+    "hashtags": ["Programming", "Languages", "Guide"]
+  },
+  {
+    "id": 14,
+    "cover": "https://source.unsplash.com/640x480/?computer-skills",
+    "title": "5 Essential Skills Every Computer Science Student Should Have",
+    "name": "Education",
+    "author": "Rana Khan",
+    "author_image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "posted_date": "2024-02-17",
+    "reading_time": "3 min read",
+    "hashtags": ["CS", "Skills", "Education"]
+  },
+  {
+    "id": 15,
+    "cover": "https://source.unsplash.com/640x480/?machine-learning",
+    "title": "What is Machine Learning and How Does it Work?",
+    "name": "Machine Learning",
+    "author": "Sadia Akter",
+    "author_image": "https://randomuser.me/api/portraits/women/15.jpg",
+    "posted_date": "2023-04-07",
+    "reading_time": "12 min read",
+    "hashtags": ["MachineLearning", "AI", "Tech"]
+  },
+  {
+    "id": 16,
+    "cover": "https://source.unsplash.com/640x480/?git-github",
+    "title": "How to Use Git and GitHub for Version Control",
+    "name": "Tools",
+    "author": "Fahim Islam",
+    "author_image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "posted_date": "2024-09-20",
+    "reading_time": "15 min read",
+    "hashtags": ["Git", "GitHub", "VersionControl"]
+  },
+  {
+    "id": 17,
+    "cover": "https://source.unsplash.com/640x480/?soft-skills",
+    "title": "The Importance of Soft Skills in Tech Careers",
+    "name": "Career",
+    "author": "Rashida Begum",
+    "author_image": "https://randomuser.me/api/portraits/women/17.jpg",
+    "posted_date": "2024-03-14",
+    "reading_time": "7 min read",
+    "hashtags": ["SoftSkills", "Career", "Tech"]
+  },
+  {
+    "id": 18,
+    "cover": "https://source.unsplash.com/640x480/?tech-interview",
+    "title": "How to Prepare for Your First Tech Interview",
+    "name": "Career",
+    "author": "Shafiqul Islam",
+    "author_image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "posted_date": "2025-05-23",
+    "reading_time": "7 min read",
+    "hashtags": ["Interview", "Career", "Tech"]
+  },
+  {
+    "id": 19,
+    "cover": "https://source.unsplash.com/640x480/?big-data",
+    "title": "Understanding Big Data: Concepts and Challenges",
+    "name": "Big Data",
+    "author": "Farhana Yasmin",
+    "author_image": "https://randomuser.me/api/portraits/women/19.jpg",
+    "posted_date": "2024-10-16",
+    "reading_time": "4 min read",
+    "hashtags": ["BigData", "Data", "Tech"]
+  },
+  {
+    "id": 20,
+    "cover": "https://source.unsplash.com/640x480/?tech-trends",
+    "title": "How to Stay Updated with the Latest Tech Trends",
+    "name": "Trends",
+    "author": "Mahmudur Rahman",
+    "author_image": "https://randomuser.me/api/portraits/men/20.jpg",
+    "posted_date": "2024-02-25",
+    "reading_time": "9 min read",
+    "hashtags": ["Trends", "Tech", "News"]
+  }
+]
